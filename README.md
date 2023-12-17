@@ -40,8 +40,8 @@ $ jupyter notebook DatasciProject.ipynb
 This will start the tool in a Jupyter book, there find the "Run" tab and select - "Run All Cell"
 
 ## Members
-  - Gabrielle Castilho
-  - Siangyun Chou
-  - Benny Lam
-  - Rouslan Postar
+  - Gabrielle Castilho(1DL507)
+  - Siangyun Chou(1DL507)
+  - Benny Lam(1DL507)
+  - Rouslan Postar(1DL505)
 
