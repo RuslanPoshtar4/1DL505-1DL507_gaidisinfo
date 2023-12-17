@@ -4,6 +4,9 @@ Project in Data Science (1DL505/1DL507),
 Autumn 2023, Uppsala University.
 
 A tool for producing benchmark datasets, these datasets are to be used in detecting online disinformation campaign - that are supported by generative AI. This tool needs Python to run!
+You will also need an OpenAI key for this to use, please refer to:
+https://help.openai.com/en/articles/4936850-where-do-i-find-my-api-key
+
 
 ## Setup
 
@@ -29,13 +32,13 @@ To this tool, having completed the necssary steps above - in a terminal type:
 
 For Jupyter Lab:
 ```
-$ jupyter lab DatasciProject.ipynb
+$ jupyter lab gaidisSim.ipynb
 ```
 This will start the tool in a Jupyter book, there find the "Run" tab and select - "Run All Cell"
 
 For Jupyter notebook
 ```
-$ jupyter notebook DatasciProject.ipynb
+$ jupyter notebook gaidisSim.ipynb
 ```
 This will start the tool in a Jupyter book, there find the "Run" tab and select - "Run All Cell"
 
