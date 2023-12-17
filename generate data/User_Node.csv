@@ -1,21 +1,21 @@
 User Node,In Degree,Inclination,bot,disinfo eng
-1,4,centrist,False,True
-2,2,leftist,False,False
-3,7,leftist,False,True
-4,6,right wing,False,False
-5,5,right wing,False,False
-6,5,centrist,True,False
-7,2,centrist,True,False
-8,3,right wing,False,False
-9,5,leftist,False,True
-10,3,right wing,False,False
-11,3,right wing,False,False
-12,14,centrist,False,False
-13,8,leftist,False,False
-14,11,right wing,False,True
-15,12,leftist,False,True
-16,4,leftist,False,True
-17,5,leftist,False,False
-18,4,leftist,False,True
-19,3,right wing,False,False
-20,1,leftist,True,True
+1,6,right wing,True,True
+2,8,right wing,False,True
+3,2,right wing,True,False
+4,4,leftist,False,True
+5,2,leftist,False,False
+6,3,leftist,False,False
+7,4,right wing,False,False
+8,2,leftist,False,False
+9,13,leftist,False,False
+10,2,leftist,False,False
+11,4,leftist,False,False
+12,7,centrist,True,False
+13,4,leftist,False,True
+14,9,right wing,False,False
+15,5,leftist,False,False
+16,5,right wing,False,False
+17,5,leftist,False,True
+18,2,centrist,False,False
+19,2,centrist,False,False
+20,6,centrist,False,False
